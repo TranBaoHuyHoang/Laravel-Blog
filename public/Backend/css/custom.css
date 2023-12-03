@@ -1,0 +1,10 @@
+.post-table th, .post-table td{
+    margin: 0;
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+
+.post-table td img{
+    width: 100px ;
+}
